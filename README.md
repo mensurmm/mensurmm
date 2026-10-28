@@ -48,7 +48,6 @@ Owners with no technical skills can add and remove products, upload image galler
 | Project | What it does | Stack |
 |---|---|---|
 | [**INFNOVA Dashboard**](https://github.com/mensurmm/infnova-dashboard) | Internship applicant dashboard: stage filters, live search, status updates, CSV export | Next.js 14, TypeScript, Tailwind |
-| **Sifra Management System** (private) | First version of the library, café, and inventory system | Laravel, Blade |
 | **StockPilot** | Supermarket system with roles, inventory, sales, and an AI assistant (StockSense) using Gemini | PHP, MySQL |
 | [**Cashwise Calculators**](https://github.com/mensurmm/cashwise-financial-calculators-suite) | Finance calculators: compound interest, fixed deposit, excise tax | HTML, CSS, JavaScript |
 | **Campus Network Design** | Three-tier university network with VLAN, OSPF, and HSRP | Cisco Packet Tracer |
