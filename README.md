@@ -38,10 +38,7 @@ Café POS, menu, inventory, orders, library borrowings, events, and reports, con
 `Flutter` `Dart` `REST API`
 [Code](https://github.com/mensurmm/sifra_manager_flutter)
 
-**🪑 Beba Furniture** — Bilingual (English / Amharic) admin dashboard
-Owners with no technical skills can add and remove products, upload image galleries, and track custom orders.
-`Next.js` `TypeScript` `Supabase` `Tailwind CSS`
-[Live site](https://furniture-app-beta-ten.vercel.app) · [Code](https://github.com/mensurmm/furniture-app)
+
 
 ### 🧰 More projects
 
