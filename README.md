@@ -2,63 +2,72 @@
 
 # Hi, I'm Mensur Mohammed 👋
 
-**Information Science Student (3rd Year Completed) • Addis Ababa University**
+**Software developer · Final-year Information Science student at Addis Ababa University**
 
-Building software that solves real business problems.
+I build simple, useful software that real businesses use every day.
 
-📧 0mensur01@gmail.com  • 🌍 Ethiopia
+`Next.js` · `TypeScript` · `Flutter` · `Laravel` · `PHP`
+
+🟢 Open to part-time internships in Addis Ababa
+
+[![Email](https://img.shields.io/badge/Email-0mensur01@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:0mensur01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mensur--mohammed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mensur-mohammed)
+[![Telegram](https://img.shields.io/badge/Telegram-@mensur1234-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/mensur1234)
 
 </div>
 
 ---
 
-## About Me
+## About me
 
-I enjoy designing and building practical software that organizations can use every day. My focus is creating clean, scalable systems that simplify operations and provide intuitive experiences for both technical and non-technical users.
-
----
-
-## 🚀 Currently Building
-
-### 📚 SIFRA Library & Café Management System
-
-A full-stack management platform for a local library and café that combines:
-
-- Library Management
-- Café Point of Sale (POS)
-- Inventory Management
-- Membership Management
-- Reporting Dashboard
-- Public Website synchronized with the management system
-
-The goal is to deliver software that is simple enough for non-technical staff while remaining scalable and maintainable.
+I like building software that is easy to use and easy to manage. My focus is clean systems that save time for staff, even for people who are not technical. I work on both web and mobile apps, from the database to the screen.
 
 ---
 
-## 💼 What I Build
+## Projects
 
-I develop custom software for organizations and small businesses, enabling them to manage their operations without technical expertise.
+### 🚀 Featured
 
-Examples include:
+**📚 Sifra Alternative Space** — Library, café, and event management system for a real client
+A live web system with a public website and a staff dashboard (library, café POS, inventory, events, reports). Staff sign in with roles (Manager and Administrator).
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
+[Live site](https://sifra-alt-space-uv4u.vercel.app) · [Code](https://github.com/mensurmm/SIFRA_ALT_SPACE)
 
-- Furniture showroom and catalog websites where owners can add, edit, or remove products from an admin dashboard and see changes reflected instantly on the public website.
-- Library and café management systems.
-- Custom web applications tailored to organizational workflows.
+**📱 Sifra Manager (Mobile App)** — Flutter app for managers
+Café POS, menu, inventory, orders, library borrowings, events, and reports, connected to the same backend as the website.
+`Flutter` `Dart` `REST API`
+[Code](https://github.com/mensurmm/sifra_manager_flutter)
 
-My objective is to build software that is easy to manage, practical to use, and designed around real business needs.
+**🪑 Beba Furniture** — Bilingual (English / Amharic) admin dashboard
+Owners with no technical skills can add and remove products, upload image galleries, and track custom orders.
+`Next.js` `TypeScript` `Supabase` `Tailwind CSS`
+[Live site](https://furniture-app-beta-ten.vercel.app) · [Code](https://github.com/mensurmm/furniture-app)
+
+### 🧰 More projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**INFNOVA Dashboard**](https://github.com/mensurmm/infnova-dashboard) | Internship applicant dashboard: stage filters, live search, status updates, CSV export | Next.js 14, TypeScript, Tailwind |
+| **Sifra Management System** (private) | First version of the library, café, and inventory system | Laravel, Blade |
+| **StockPilot** | Supermarket system with roles, inventory, sales, and an AI assistant (StockSense) using Gemini | PHP, MySQL |
+| [**Cashwise Calculators**](https://github.com/mensurmm/cashwise-financial-calculators-suite) | Finance calculators: compound interest, fixed deposit, excise tax | HTML, CSS, JavaScript |
+| **Campus Network Design** | Three-tier university network with VLAN, OSPF, and HSRP | Cisco Packet Tracer |
+| **Server Backup Scripts** | Automatic backup, compression, and logging (team project) | Bash |
 
 ---
 
-## 🤝 Let's Connect
+## Tech stack
 
-📧 **Email**  
-0mensur01@gmail.com
+**Web:** TypeScript, JavaScript, Next.js, React, HTML, CSS, Tailwind CSS, PHP, Laravel
+**Mobile:** Flutter, Dart
+**Data and backend:** PostgreSQL, MySQL, Prisma, Supabase, REST APIs, JWT
+**Systems and cloud:** AWS (EC2, S3, IAM), Cisco Packet Tracer, Bash
+**Other:** Java, C++, C#, Git, GitHub, Vercel
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/mensur-mohammed
+---
 
-💻 **GitHub**  
-https://github.com/mensurmm
+## Let's connect
 
-📨 **Telegram**  
-https://t.me/mensur1234
+I am open to part-time internships and small freelance projects.
+
+📧 [0mensur01@gmail.com](mailto:0mensur01@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mensur-mohammed) · 📨 [Telegram](https://t.me/mensur1234)
